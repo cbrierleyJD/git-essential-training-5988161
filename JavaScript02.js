@@ -1,2 +1,2 @@
-console.log('Hello World - JS02 - AGAIN');
-alert('Hello World - JS02 - AGAIN');
+console.log('Hello World - JS02');
+alert('Hello World - JS02');
